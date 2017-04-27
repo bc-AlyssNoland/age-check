@@ -7,6 +7,7 @@
  * Author's website: http://fearlessflyer.com*
  *
  */
+
 (function ($) {
   $.ageCheck = function (options) {
     const settings = $.extend({
